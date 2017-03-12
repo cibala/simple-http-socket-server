@@ -1,0 +1,31 @@
+* What is BSD socket
+** http://kezeodsnx.pixnet.net/blog/post/27462696-socket-programming-%E7%AD%86%E8%A8%98
+** http://www.tenouk.com/cnlinuxsockettutorials.html
+*** http use TCP protocols
+**** Basic for the TCP:
+Transmission Control Protocol is defined by RFC-793.
+TCP provides connection-oriented transport service and reliable.
+End-to-end transparent byte-stream.
+E.g.: FTP, telnet, http, SMTP.
+*** Google: BSD socket TCP server
+**** http://www.binarytides.com/socket-programming-c-linux-tutorial/
+**** http://inst.eecs.berkeley.edu/~ee122/fa09/notes/03-SocketProgrammingx6.pdf
+**** http://pubs.opengroup.org/onlinepubs/7908799/xns/syssocket.h.html
+**** https://en.wikipedia.org/wiki/Berkeley_sockets#Server
+*** Flow
+**** socket...Done
+**** bind...Done
+**** listen...Done
+**** accept...Done
+**** send...Done
+**** close...Done
+*** Can connect, but refuse by browser
+*** Google: http socket
+**** send HTTP header followed by jpg binary 
+
+* How to write make file
+** http://mropengate.blogspot.tw/2015/06/makefile-makefile.html
+
+* README
+** https://coderwall.com/p/fy05hq/how-to-make-beautiful-github-readme
+
