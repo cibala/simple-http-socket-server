@@ -35,4 +35,4 @@ Main
     
 ## Authors
 
-* **Daniel Wang** - *Initial work* - [RandomPic](https://github.com/)
+* **Daniel Wang** - *Initial work* - [RandomPic](https://github.com/cibala/simple-http-socket-server)
